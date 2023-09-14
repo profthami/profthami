@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Universo de Dota 2</title>
+<link rel="stylesheet" href="style.css"> 
+<style>
+ 
+</style>
+</head>
+<body>
+<div id="content">
+  <h1>Seja Bem-Vindo ao Universo de Dota 2!</h1>
+
+  <p>Nossa, independentemente de ser um jogador casual, um competidor dedicado ou alguém curioso sobre o <strong>Dota 2</strong>, este site é o seu portal para tudo relacionado a esse emocionante jogo.</p>
+
+  <p>Explore o vasto universo do Dota 2, mergulhe em sua história e estratégias, e junte-se à comunidade global de fãs apaixonados. <em>A batalha começa aqui!</em></p>
+</div>
+</body>
+</html>
