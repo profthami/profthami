@@ -1,0 +1,29 @@
+body {
+  background-image: url(local onde você ira colocar a URL da imagem.);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center center; 
+  color: white; 
+  font-family: Arial, sans-serif; 
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+#content {
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 20px;
+  max-width: 600px;
+  margin: 20px 0;
+}
